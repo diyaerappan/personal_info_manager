@@ -1,0 +1,16 @@
+Name=input("Enter your Name:")
+Age=int(input("Enter your Age:"))
+Height=float(input("Enter your Height(in cms):"))
+Qualification=input("Enter your Qualification:")
+Hobby=input("Enter your hobbies:")
+Birth_year=2026-Age
+Interests=input("Things you are Interested in:")
+
+print("\n-----User Information------\n")
+print("Name:",Name)
+print("Age:",Age)
+print("Height:",Height)
+print("Qualification:",Qualification)
+print("Hobby:",Hobby)
+print("Estimated birth year:",Birth_year)
+print("Interests In:",Interests)
